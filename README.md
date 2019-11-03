@@ -19,9 +19,9 @@ https://dl.google.com/chrome/install/ChromeStandaloneSetup64.exe
 
 
 # Windows Enterprise
-https://dl.google.com/tag/chrome/install/GoogleChromeEnterpriseBundle.zip
+https://dl.google.com/chrome/install/GoogleChromeEnterpriseBundle.zip
 
-https://dl.google.com/tag/chrome/install/GoogleChromeEnterpriseBundle64.zip
+https://dl.google.com/chrome/install/GoogleChromeEnterpriseBundle64.zip
 
 
 # Linux
