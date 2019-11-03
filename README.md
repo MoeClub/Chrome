@@ -13,15 +13,15 @@ https://dl.google.com/chrome/mac/stable/GCEA/googlechrome.dmg
 
 
 # Windows 
-https://dl.google.com/tag/s/appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&installdataindex=empty/chrome/install/ChromeStandaloneSetup.exe
+https://dl.google.com/chrome/install/ChromeStandaloneSetup.exe
 
-https://dl.google.com/tag/s/appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&installdataindex=empty/chrome/install/ChromeStandaloneSetup64.exe
+https://dl.google.com/chrome/install/ChromeStandaloneSetup64.exe
 
 
 # Windows Enterprise
-https://dl.google.com/tag/s/appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&brand=GCEB/dl/chrome/install/GoogleChromeEnterpriseBundle.zip
+https://dl.google.com/tag/chrome/install/GoogleChromeEnterpriseBundle.zip
 
-https://dl.google.com/tag/s/appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&brand=GCEB/dl/chrome/install/GoogleChromeEnterpriseBundle64.zip
+https://dl.google.com/tag/chrome/install/GoogleChromeEnterpriseBundle64.zip
 
 
 # Linux
