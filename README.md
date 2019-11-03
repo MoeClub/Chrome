@@ -1,6 +1,6 @@
 
 # MacOS
-## MacOS 10.10 ~
+## MacOS 10.10 ~ ?
 https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg
 ## MacOS 10.9
 https://dl.google.com/chrome/mac/legacy10_9/GGRO/googlechrome.dmg
