@@ -8,7 +8,7 @@ https://dl.google.com/dl/chrome/mac/legacy10_9/GGRO/googlechrome.dmg
 https://dl.google.com/dl/chrome/mac/legacy/GGRO/googlechrome.dmg
 
 
-## MacOS Enterprise
+# MacOS Enterprise
 https://dl.google.com/chrome/mac/stable/GCEA/googlechrome.dmg
 
 
